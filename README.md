@@ -10,9 +10,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [React Docs](https://beta.reactjs.org/)
 - [Stackoverflow](https://stackoverflow.com/)
 
-## Authors
-
-- [@Shuence](https://www.github.com/shuence)
 
 ## Badges
 
@@ -51,11 +48,11 @@ Contributions are always welcome!
 
 Please adhere to this project's `code of conduct`.
 
-# Hi, I'm Shuence! 👋
+# Hi, I'm Nikunj! 👋
 
 ## 🚀 About Me
 
-I'm Shubham A FY B.Tech Student
+I'm Nikunj A  B.Tech Student
 
 A Frontend Developer
 
@@ -65,4 +62,4 @@ Reactjs, Javascript, HTML, CSS
 
 ## Happy coding 💯
 
-Made with love from Shuence ❤️
+Made with love from Nikunj ❤️
